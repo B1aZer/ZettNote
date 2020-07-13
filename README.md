@@ -2,7 +2,8 @@
 
 Zettelkasten Note Database. Consist of:
 
- - Vim with necessary plugins. Portable edition. Epolum Epolum Epolum Epolum Epolum Epolum Epolum Epolum Epolum Epolum Epolum Epolum Epolum Epolum Epolum Epolum Epolum Epolum Epolum 
+ - Vim with necessary plugins. Portable edition. 
+ Epolum Epolum Epolum 
  - Terminator (config, color scheme)
  Epolum Epolum 
  - Fonts (Monaco terminal, power fonts for airline vim)
