@@ -3,7 +3,7 @@
 Zettelkasten Note Database. Consist of:
 
  - Vim with necessary plugins. Portable edition. 
- - Terminator (config, color scheme)
+ - Terminator (config, color scheme, ctrl-shift-x)
  - Fonts (Monaco terminal, power fonts for airline vim)
  
 Usage:
